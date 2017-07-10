@@ -1,0 +1,14 @@
+{
+    "name": "zhougen/composer",
+    "description": "this is text",
+    "type": "project",
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "zhougeng",
+            "email": "925066118@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
